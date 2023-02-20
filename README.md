@@ -26,7 +26,7 @@ Currently houses releases for budgety<br/>
 A personal budget tracking app with management functionalities and simplistic ui design. More info regarding the app will be posted when published on google play store
 
 ## :arrow_down: Releases
-#### [Check current releases](https://github.com/FN-FAL113/Budgety-Releases/releases)
+### [Check current releases](https://github.com/FN-FAL113/Budgety-Releases/releases)
 
 ## :iphone: Some Screens
 <p align="center">
