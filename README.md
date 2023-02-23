@@ -14,9 +14,6 @@
   <a href="https://github.com/FN-FAL113/Budgety/stargazers">
     <img src="https://img.shields.io/github/stars/FN-FAL113/github-readme-steam-status"/> 
   </a>
-  <a href="https://github.com/FN-FAL113/Budgety/LICENSE">
-    <img src="https://img.shields.io/github/license/FN-FAL113/github-readme-steam-status"/> 
-  </a> 
 </p>
 
 # Budgety Releases
