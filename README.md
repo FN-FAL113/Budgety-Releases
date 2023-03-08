@@ -32,7 +32,6 @@ A personal budget tracking app with management functionalities and simplistic ui
     <img width="335" src="https://user-images.githubusercontent.com/88238718/223690752-1a546096-990b-470c-a449-6225b938b0be.png" alt="Error cannot load">
     <img width="335" src="https://user-images.githubusercontent.com/88238718/223690719-44c3e7f8-95cd-4f03-8e24-6409f2609e30.png" alt="Error cannot load">
     <img width="335" src="https://user-images.githubusercontent.com/88238718/223690734-d68dec51-8b3b-4955-b934-179ef683b944.png" alt="Error cannot load">
-    <img width="335" src="https://user-images.githubusercontent.com/88238718/219651392-4d5dbce7-f1b2-46f5-8350-24cc6222a2dd.png" alt="Error cannot load">
 </p>
 
 
