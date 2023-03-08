@@ -27,9 +27,11 @@ A personal budget tracking app with management functionalities and simplistic ui
 
 ## :iphone: Some Screens
 <p align="center">
-    <img width="335" src="https://user-images.githubusercontent.com/88238718/219651340-144b9afc-4e1c-4234-ae72-5e45ebdaae9e.png" alt="Error cannot load">
-    <img width="335" src="https://user-images.githubusercontent.com/88238718/219651365-0b290408-ae89-41ac-ac7a-fca88ab3564a.png" alt="Error cannot load">
-    <img width="335" src="https://user-images.githubusercontent.com/88238718/219651375-37120371-91e5-4d59-ab7b-cee1e186bc4a.png" alt="Error cannot load">
+    <img width="335" src="https://user-images.githubusercontent.com/88238718/223690741-df2272a0-657c-4e31-b52a-a55ededca021.png" alt="Error cannot load">
+    <img width="335" src="https://user-images.githubusercontent.com/88238718/223690748-52c73aac-af5a-4217-8efa-236e39dd59a0.png" alt="Error cannot load">
+    <img width="335" src="https://user-images.githubusercontent.com/88238718/223690752-1a546096-990b-470c-a449-6225b938b0be.png" alt="Error cannot load">
+    <img width="335" src="https://user-images.githubusercontent.com/88238718/223690719-44c3e7f8-95cd-4f03-8e24-6409f2609e30.png" alt="Error cannot load">
+    <img width="335" src="https://user-images.githubusercontent.com/88238718/223690734-d68dec51-8b3b-4955-b934-179ef683b944.png" alt="Error cannot load">
     <img width="335" src="https://user-images.githubusercontent.com/88238718/219651392-4d5dbce7-f1b2-46f5-8350-24cc6222a2dd.png" alt="Error cannot load">
 </p>
 
