@@ -34,7 +34,11 @@ A personal budget tracking app with management functionalities and simplistic ui
     <img width="335" src="https://user-images.githubusercontent.com/88238718/223690734-d68dec51-8b3b-4955-b934-179ef683b944.png" alt="Error cannot load">
 </p>
 
+## State
+Development is on halt but the application is now a minimum viable product, necessary functions are implemented
 
+## To Do
+- Use api for date to prevent breaking the app
 
 ### :copyright: Copyright
 ##### © 2023 FN-FAL113. All rights reserved.
