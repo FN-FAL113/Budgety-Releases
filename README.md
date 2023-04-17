@@ -40,5 +40,5 @@ Development is on halt but the application is now a minimum viable product, nece
 ## To Do
 - Use api for date to prevent breaking the app
 
-### :copyright: Copyright
+## Copyright
 ##### © 2023 FN-FAL113. All rights reserved.
