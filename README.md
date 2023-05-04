@@ -5,12 +5,6 @@
   <a href="https://github.com/FN-FAL113/Budgety/issues">
     <img src="https://img.shields.io/github/issues/FN-FAL113/github-readme-steam-status"/> 
   </a>
-  <a href="https://github.com/FN-FAL113/Budgety/pulls">
-    <img src="https://img.shields.io/github/issues-pr/FN-FAL113/github-readme-steam-status"/> 
-  </a>
-  <a href="https://github.com/FN-FAL113/Budgety/network/members">
-    <img src="https://img.shields.io/github/forks/FN-FAL113/github-readme-steam-status"/> 
-  </a>  
   <a href="https://github.com/FN-FAL113/Budgety/stargazers">
     <img src="https://img.shields.io/github/stars/FN-FAL113/github-readme-steam-status"/> 
   </a>
