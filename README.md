@@ -3,10 +3,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/FN-FAL113/Budgety/issues">
-    <img src="https://img.shields.io/github/issues/FN-FAL113/github-readme-steam-status"/> 
+    <img src="https://img.shields.io/github/issues/FN-FAL113/Budgety-Releases"/> 
   </a>
   <a href="https://github.com/FN-FAL113/Budgety/stargazers">
-    <img src="https://img.shields.io/github/stars/FN-FAL113/github-readme-steam-status"/> 
+    <img src="https://img.shields.io/github/stars/FN-FAL113/Budgety-Releases"/> 
   </a>
 </p>
 
